@@ -1000,5 +1000,71 @@
     "height": "25",
     "width": "25",
     "shortcut": "(gtfo)"
+  },
+  {
+    "image": "shipit.png",
+    "height": "",
+    "width": "",
+    "shortcut": "(shipit)"
+  },
+  {
+    "image": "borkbork.png",
+    "height": "",
+    "width": "",
+    "shortcut": "(borkbork)"
+  },
+  {
+    "image": "good_talk_russ.gif",
+    "height": "",
+    "width": "",
+    "shortcut": "(goodtalkruss)"
+  },
+  {
+    "image": "bacon.png",
+    "height": "",
+    "width": "",
+    "shortcut": "(bacon)"
+  },
+  {
+    "image": "eor.png",
+    "height": "",
+    "width": "",
+    "shortcut": "(eor)"
+  },
+  {
+    "image": "taco.png",
+    "height": "",
+    "width": "",
+    "shortcut": "(taco)"
+  },
+  {
+    "image": "jeff.png",
+    "height": "",
+    "width": "",
+    "shortcut": "(jeff)"
+  },
+  {
+    "image": "honeybadger.png",
+    "height": "",
+    "width": "",
+    "shortcut": "(honeybadger)"
+  },
+  {
+    "image": "drink.png",
+    "height": "",
+    "width": "",
+    "shortcut": "(drink)"
+  },
+  {
+    "image": "peaceout.png",
+    "height": "",
+    "width": "",
+    "shortcut": "(peaceout)"
+  },
+  {
+    "image": "napoleon.png",
+    "height": "",
+    "width": "",
+    "shortcut": "(napoleon)"
   }
 ]
